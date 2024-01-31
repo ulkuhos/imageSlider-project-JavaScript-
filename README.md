@@ -6,7 +6,7 @@
 https://ulku.ikizoglu.com/portfolyo/imageslider/
 
 
-![](https://github.com/ulkuhos/imageSlider-project-JavaScript-/blob/main/img/imageslider.gif)
+ :point_right: ![](https://github.com/ulkuhos/imageSlider-project-JavaScript-/blob/main/img/imageslider.gif)
 ---
 ![](https://github.com/ulkuhos/imageSlider-project-JavaScript-/blob/main/img/imageSliderProjectImg.JPG)
 ---
